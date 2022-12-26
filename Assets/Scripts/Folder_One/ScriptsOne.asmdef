@@ -1,0 +1,16 @@
+{
+    "name": "ScriptsOne",
+    "rootNamespace": "",
+    "references": [
+        "GUID:00e36a3ecc7ceee498b4164ae18780ad"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
